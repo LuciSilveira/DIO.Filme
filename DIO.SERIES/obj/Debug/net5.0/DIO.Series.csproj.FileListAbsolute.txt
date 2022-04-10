@@ -1,0 +1,16 @@
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\APP SERIES\DIO.SERIES\bin\Debug\net5.0\DIO.Series.exe
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\APP SERIES\DIO.SERIES\bin\Debug\net5.0\DIO.Series.deps.json
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\APP SERIES\DIO.SERIES\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\APP SERIES\DIO.SERIES\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\APP SERIES\DIO.SERIES\bin\Debug\net5.0\DIO.Series.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\APP SERIES\DIO.SERIES\bin\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\APP SERIES\DIO.SERIES\bin\Debug\net5.0\DIO.Series.pdb
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\APP SERIES\DIO.SERIES\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\APP SERIES\DIO.SERIES\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\APP SERIES\DIO.SERIES\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\APP SERIES\DIO.SERIES\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\APP SERIES\DIO.SERIES\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\APP SERIES\DIO.SERIES\obj\Debug\net5.0\DIO.Series.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\APP SERIES\DIO.SERIES\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\APP SERIES\DIO.SERIES\obj\Debug\net5.0\DIO.Series.pdb
+C:\Users\Luci Silveira\OneDrive\Área de Trabalho\Banco Carrefour Woman - curso Bootcamp\APP SERIES\DIO.SERIES\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
